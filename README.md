@@ -50,3 +50,8 @@ let productBin = {
 }
 
 Sebagai QA Engineer kalian ingin mengecek total quantity dari bebarapa storageId untuk productCode FBR00040101 (FloBrand-DressBSPink). Buatlah sebuah program javascript untuk menjumlahkan quantity dari semua storageId untuk produk tersebut
+
+
+Screenshot run:
+Soal 1 - https://imghostr.com/91f0fe_a7n
+Soal 2 - https://imghostr.com/cf639f_z63
